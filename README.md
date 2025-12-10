@@ -2,6 +2,7 @@
 
 This repository contains the implementation of our paper **"ALPHA: LLM-Enabled Active Learning for Human-Free Network Anomaly Detection"**
 
+For more details, please refer to the full paper: [Paper Link](https://arxiv.org/pdf/2509.05936)
 
 ---
 
